@@ -1,1 +1,1 @@
-https://blackcoinmore.org/ aims to continue on BlackCoin protocol.
+https://thehumanity.github.io/ aims to continue on Humanity protocol.
